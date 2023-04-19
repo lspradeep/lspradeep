@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lspradeep
+- Android 📱 - Flutter 🐦 - Unity 🎮 ( Java | Kotlin | Dart | C# )
 - 👀 I’m interested in Mobile app and game development 
 - 🌱 I’m currently learning KMP, Unity
 - visit https://pradeep21.itch.io
