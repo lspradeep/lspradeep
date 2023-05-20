@@ -1,5 +1,5 @@
 - Android 📱 - Flutter 🐦 - Unity 🎮 ( Java | Kotlin | Dart | C# )
-- 👀 I’m interested in Mobile app and game development 
+- 👀 I’m interested in Mobile App, Anything Kotlin and 2D Game development 
 - 🌱 I’m currently learning Kotlin MP, Unity
 - visit https://pradeep21.itch.io
 
