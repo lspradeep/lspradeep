@@ -1,14 +1,10 @@
-- Android 📱 - Flutter 🐦 - Unity 🎮 ( Java | Kotlin | Dart | C# )
-- 👀 I’m interested in Mobile App, Anything Kotlin and 2D Game development
-  
+  <h4 align="left">👀 I’m interested in Mobile App, Anything Kotlin and 2D Game development</h4>
 <!---
 lspradeep/lspradeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=lspradeep&label=Profile%20views&color=0e75b6&style=flat"
                      alt="lspradeep"/></p>
-<p align="left"><a href="https://twitter.com/lspradeep" target="blank"><img
-        src="https://img.shields.io/twitter/follow/lspradeep?logo=twitter&style=for-the-badge" alt="lspradeep"/></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -28,6 +24,10 @@ You can click the Preview link to take a look at your changes.
     <a href="https://pradeep21.itch.io" target="_blank"> <img
             src="https://icon-library.com/images/unity-icon-png/unity-icon-png-6.jpg" alt="unity"
             width="40" height="40"/> </a>
+        <!--Flutter-->
+    <a href="https://flutter.dev" target="_blank"> <img
+            src="https://saigontechnology.com/assets/media/Blog/flutter-what-is-it.webp" alt="flutter"
+            width="35" height="35"/> </a>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lspradeep&" alt="lspradeep"/></p>
 
