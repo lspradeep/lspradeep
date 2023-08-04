@@ -14,16 +14,16 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
     <!--Kotlin-->
     <a href="https://kotlinlang.org" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="35" height="35"/>
+            src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="33" height="33"/>
     </a>
     <!--Android-->
     <a href="https://developer.android.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40"/> </a>
+            src="https://img.freepik.com/free-icon/android_318-674214.jpg?w=2000"
+            alt="android" width="35" height="35"/> </a>
     <!--Java-->
     <a href="https://www.java.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40"/> </a>
+            src="https://icon-library.com/images/java-icon-png/java-icon-png-16.jpg" alt="java"
+            width="44" height="44"/> </a>
       <!--Unity-->
     <a href="https://pradeep21.itch.io" target="_blank"> <img
             src="https://icon-library.com/images/unity-icon-png/unity-icon-png-6.jpg" alt="unity"
