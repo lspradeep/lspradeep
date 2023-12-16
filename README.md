@@ -1,4 +1,4 @@
-  <h4 align="left">👀 I’m interested in Mobile App, Anything Kotlin and 2D Game development</h4>
+  <h4 align="left">👀 I’m interested in Mobile App, Anything Kotlin, and Svelte  development</h4>
 <!---
 lspradeep/lspradeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
