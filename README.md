@@ -31,4 +31,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lspradeep&" alt="lspradeep"/></p>
 
+<!--
 ![lspradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=lspradeep&theme=radical)
+-->
