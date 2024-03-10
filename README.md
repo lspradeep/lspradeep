@@ -1,4 +1,4 @@
-  <h4 align="left">👀 I’m interested in Mobile App, Anything Kotlin, and Svelte  development</h4>
+  <h4 align="left">👀 I’m interested in Mobile App development, Kotlin Multiplatform, also tried a little bit of Svelte, Unity, and Flutter</h4>
 <!---
 lspradeep/lspradeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -29,6 +29,8 @@ You can click the Preview link to take a look at your changes.
             src="https://saigontechnology.com/assets/media/Blog/flutter-what-is-it.webp" alt="flutter"
             width="35" height="35"/> </a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lspradeep&show_icons=true&locale=en&layout=compact&theme=transparent" alt="jan-tennert" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lspradeep&" alt="lspradeep"/></p>
 
 <!--
