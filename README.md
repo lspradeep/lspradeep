@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
             width="40" height="40"/> </a>
         <!--Flutter-->
     <a href="https://flutter.dev" target="_blank"> <img
-            src="https://saigontechnology.com/assets/media/Blog/flutter-what-is-it.webp" alt="flutter"
+            src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter"
             width="35" height="35"/> </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lspradeep&show_icons=true&locale=en&layout=compact&theme=transparent" alt="jan-tennert" /></p>
