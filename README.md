@@ -63,11 +63,15 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lspradeep&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lspradeep&show_icons=true&theme=algolia" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=lspradeep&theme=algolia" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lspradeep&layout=compact&theme=algolia" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=lspradeep&theme=algolia" alt="GitHub Streak" />
 </p>
 
 ---
