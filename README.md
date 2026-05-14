@@ -63,12 +63,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/lspradeep?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/lspradeep?style=social" alt="GitHub Stars" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-?-blue?style=flat-square&logo=github" alt="Repositories" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=lspradeep&theme=algolia" alt="GitHub Streak" />
 </p>
 
 ---
