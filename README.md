@@ -15,23 +15,23 @@
 <p align="left">
     <!-- Kotlin -->
     <a href="https://kotlinlang.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="45" height="45" style="margin: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45" style="margin: 5px;"/>
     </a>
     <!-- Android -->
     <a href="https://developer.android.com" target="_blank">
-        <img src="https://img.freepik.com/free-icon/android_318-674214.jpg?w=2000" alt="Android" width="45" height="45" style="margin: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="45" height="45" style="margin: 5px;"/>
     </a>
     <!-- Java -->
     <a href="https://www.java.com" target="_blank">
-        <img src="https://icon-library.com/images/java-icon-png/java-icon-png-16.jpg" alt="Java" width="45" height="45" style="margin: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin: 5px;"/>
     </a>
     <!-- Unity -->
     <a href="https://pradeep21.itch.io" target="_blank">
-        <img src="https://icon-library.com/images/unity-icon-png/unity-icon-png-6.jpg" alt="Unity" width="45" height="45" style="margin: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="45" height="45" style="margin: 5px;"/>
     </a>
     <!-- Flutter -->
     <a href="https://flutter.dev" target="_blank">
-        <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter" width="45" height="45" style="margin: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45" style="margin: 5px;"/>
     </a>
 </p>
 
@@ -42,15 +42,15 @@
 <p align="left">
     <!-- Play Store -->
     <a href="https://play.google.com/store/apps/developer?id=Pradeep+L+S&hl=en_IN" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="Google Play Store" width="45" height="45" style="margin: 5px;"/>
-    </a>
-    <!-- itch.io -->
-    <a href="https://pradeep21.itch.io" target="_blank">
-        <img src="https://img.itch.zone/aW1hZ2UvMTI5NjM1OC83MzE5MTE4LnBuZw==/32x32%23/QQBr9w.png" alt="itch.io" width="45" height="45" style="margin: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Play Store" width="45" height="45" style="margin: 5px;"/>
     </a>
     <!-- GitHub -->
     <a href="https://github.com/lspradeep" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="45" height="45" style="margin: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="margin: 5px;"/>
+    </a>
+    <!-- itch.io -->
+    <a href="https://pradeep21.itch.io" target="_blank">
+        <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white" alt="itch.io" style="margin: 5px; height: 45px;"/>
     </a>
 </p>
 
