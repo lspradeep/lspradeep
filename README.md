@@ -15,23 +15,23 @@
 <p align="left">
     <!-- Kotlin -->
     <a href="https://kotlinlang.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45" style="margin: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45" style="margin: 5px;"/>
     </a>
     <!-- Android -->
     <a href="https://developer.android.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="45" height="45" style="margin: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="45" height="45" style="margin: 5px;"/>
     </a>
     <!-- Java -->
     <a href="https://www.java.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin: 5px;"/>
     </a>
     <!-- Unity -->
     <a href="https://pradeep21.itch.io" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="45" height="45" style="margin: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" width="45" height="45" style="margin: 5px;"/>
     </a>
     <!-- Flutter -->
     <a href="https://flutter.dev" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45" style="margin: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45" style="margin: 5px;"/>
     </a>
 </p>
 
@@ -42,15 +42,19 @@
 <p align="left">
     <!-- Play Store -->
     <a href="https://play.google.com/store/apps/developer?id=Pradeep+L+S&hl=en_IN" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Play Store" width="45" height="45" style="margin: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Google Play Store" width="45" height="45" style="margin: 5px;"/>
+    </a>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/pradeepls" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" style="margin: 5px;"/>
     </a>
     <!-- GitHub -->
     <a href="https://github.com/lspradeep" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="margin: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="margin: 5px;"/>
     </a>
     <!-- itch.io -->
     <a href="https://pradeep21.itch.io" target="_blank">
-        <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white" alt="itch.io" style="margin: 5px; height: 45px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/itch/itch-original.svg" alt="itch.io" width="45" height="45" style="margin: 5px;"/>
     </a>
 </p>
 
@@ -59,25 +63,11 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/lspradeep">
-    <img height="180em" src="https://raw.githubusercontent.com/lspradeep/lspradeep/main/assets/stats.png" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lspradeep&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/lspradeep">
-    <img src="https://streak-stats.demolab.com?user=lspradeep&theme=algolia" alt="GitHub Streak Stats" />
-  </a>
-</p>
-
----
-
-## 🔝 Most Used Languages
-
-<p align="center">
-  <a href="https://github.com/lspradeep">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lspradeep&layout=compact&langs_count=8" alt="Most Used Languages" />
-  </a>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=lspradeep&theme=algolia" alt="GitHub Streak" />
 </p>
 
 ---
