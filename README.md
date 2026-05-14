@@ -15,23 +15,23 @@
 <p align="left">
     <!-- Kotlin -->
     <a href="https://kotlinlang.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45" style="margin: 5px;"/>
+        <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
     </a>
     <!-- Android -->
     <a href="https://developer.android.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="45" height="45" style="margin: 5px;"/>
+        <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
     </a>
     <!-- Java -->
     <a href="https://www.java.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin: 5px;"/>
+        <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     </a>
     <!-- Unity -->
     <a href="https://pradeep21.itch.io" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" width="45" height="45" style="margin: 5px;"/>
+        <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
     </a>
     <!-- Flutter -->
     <a href="https://flutter.dev" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45" style="margin: 5px;"/>
+        <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
     </a>
 </p>
 
@@ -40,21 +40,21 @@
 ## 📱 Connect With Me
 
 <p align="left">
-    <!-- Play Store -->
+    <!-- Google Play Store -->
     <a href="https://play.google.com/store/apps/developer?id=Pradeep+L+S&hl=en_IN" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Google Play Store" width="45" height="45" style="margin: 5px;"/>
+        <img alt="Google Play Store" src="https://img.shields.io/badge/Google%20Play%20Store-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
     </a>
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/pradeepls" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" style="margin: 5px;"/>
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <!-- GitHub -->
     <a href="https://github.com/lspradeep" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="margin: 5px;"/>
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <!-- itch.io -->
     <a href="https://pradeep21.itch.io" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/itch/itch-original.svg" alt="itch.io" width="45" height="45" style="margin: 5px;"/>
+        <img alt="itch.io" src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
     </a>
 </p>
 
