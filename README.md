@@ -59,11 +59,25 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lspradeep&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <a href="https://github.com/lspradeep">
+    <img height="180em" src="https://raw.githubusercontent.com/lspradeep/lspradeep/main/assets/stats.png" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lspradeep" alt="GitHub Streak" />
+  <a href="https://github.com/lspradeep">
+    <img src="https://streak-stats.demolab.com?user=lspradeep&theme=algolia" alt="GitHub Streak Stats" />
+  </a>
+</p>
+
+---
+
+## 🔝 Most Used Languages
+
+<p align="center">
+  <a href="https://github.com/lspradeep">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lspradeep&layout=compact&langs_count=8" alt="Most Used Languages" />
+  </a>
 </p>
 
 ---
