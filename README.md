@@ -1,72 +1,65 @@
-# Hey there! 👋 I'm Pradeep L S
+<div align="center">
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Flspradeep&query=public_repos&label=Public%20Repos&color=0e75b6&style=flat)
+<br/>
 
----
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   P R A D E E P   L   S                                 │
+│   Lead Software Engineer                                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-## 🎯 About Me
+*Android · Kotlin Multiplatform · Compose Multiplatform · Flutter*
 
-**👀 I'm interested in Mobile App development, Kotlin Multiplatform, also tried a little bit of Svelte, Unity, and Flutter**
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeepls)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lspradeep)
+[![Play Store](https://img.shields.io/badge/Play%20Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Pradeep+L+S&hl=en_IN)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://pradeep21.itch.io)
 
-## 🛠️ Languages and Tools
+</div>
 
-<p align="left">
-  <a href="https://kotlinlang.org" target="_blank">
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank">
-    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  </a>
-  <a href="https://pradeep21.itch.io" target="_blank">
-    <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
 ---
 
-## 📱 Connect With Me
+## About
 
-<p align="left">
-  <a href="https://play.google.com/store/apps/developer?id=Pradeep+L+S&hl=en_IN" target="_blank">
-    <img alt="Google Play Store" src="https://img.shields.io/badge/Google%20Play%20Store-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pradeepls" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/lspradeep" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://pradeep21.itch.io" target="_blank">
-    <img alt="itch.io" src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
-  </a>
-</p>
+Interested in mobile app development, Kotlin Multiplatform, and have also explored Svelte, Unity, and Flutter.
 
 ---
 
-## 📊 GitHub Statistics
+## Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lspradeep&show_icons=true&theme=algolia&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-</p>
+**Languages & Frameworks**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lspradeep&layout=compact&theme=algolia&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lspradeep&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</p>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ---
 
-<p align="center">
-  <i>⭐ Feel free to explore my repositories and reach out for collaboration!</i>
-</p>
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lspradeep&show_icons=true&theme=graywhite&hide_border=true&title_color=333&text_color=555&icon_color=333&bg_color=fafafa&cache_seconds=86400" height="150" alt="Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lspradeep&layout=compact&theme=graywhite&hide_border=true&title_color=333&text_color=555&bg_color=fafafa&cache_seconds=86400" height="150" alt="Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=lspradeep&theme=transparent&hide_border=true&stroke=dddddd&ring=555555&fire=555555&currStreakLabel=555555&sideLabels=555555&dates=aaaaaa&currStreakNum=333333&sideNums=333333" alt="Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+<sub>⭐ Feel free to explore my repositories and reach out for collaboration</sub>
+</div>
